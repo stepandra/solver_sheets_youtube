@@ -5,7 +5,7 @@
   "main": "main.js",
   "dependencies": {
     "@google-cloud/local-auth": "^0.1.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "googleapis": "^52.1.0",
     "javascript-lp-solver": "^0.4.24"
   },
